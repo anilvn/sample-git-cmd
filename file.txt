@@ -1,1 +1,1 @@
-sample file for learn git changes made on master branch
+sample file for learn git from feature-a
